@@ -5,6 +5,8 @@ Development teams transitioning to distributed source control with Git often exp
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7405620336584564736?collapsed=1" height="718" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7326444181147594752?collapsed=1" height="697" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 80% of enterprise data is locked in complex documents, untapped and unused. Every day, valuable insights remain buried in PDFs, presentations, and emails you haven't been able to access. Until now. Get started for FREE!
 
 
